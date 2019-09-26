@@ -1,0 +1,11 @@
+D:\github\graphql-demo\graphql-console\obj\Debug\netcoreapp2.1\graphql-console.csprojAssemblyReference.cache
+D:\github\graphql-demo\graphql-console\obj\Debug\netcoreapp2.1\graphql-console.csproj.CoreCompileInputs.cache
+D:\github\graphql-demo\graphql-console\obj\Debug\netcoreapp2.1\graphql-console.AssemblyInfoInputs.cache
+D:\github\graphql-demo\graphql-console\obj\Debug\netcoreapp2.1\graphql-console.AssemblyInfo.cs
+D:\github\graphql-demo\graphql-console\bin\Debug\netcoreapp2.1\graphql-console.deps.json
+D:\github\graphql-demo\graphql-console\bin\Debug\netcoreapp2.1\graphql-console.runtimeconfig.json
+D:\github\graphql-demo\graphql-console\bin\Debug\netcoreapp2.1\graphql-console.runtimeconfig.dev.json
+D:\github\graphql-demo\graphql-console\bin\Debug\netcoreapp2.1\graphql-console.dll
+D:\github\graphql-demo\graphql-console\bin\Debug\netcoreapp2.1\graphql-console.pdb
+D:\github\graphql-demo\graphql-console\obj\Debug\netcoreapp2.1\graphql-console.dll
+D:\github\graphql-demo\graphql-console\obj\Debug\netcoreapp2.1\graphql-console.pdb

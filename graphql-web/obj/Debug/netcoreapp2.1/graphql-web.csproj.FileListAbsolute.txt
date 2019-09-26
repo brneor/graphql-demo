@@ -1,0 +1,14 @@
+D:\github\graphql-demo\graphql-web\bin\Debug\netcoreapp2.1\graphql-web.deps.json
+D:\github\graphql-demo\graphql-web\bin\Debug\netcoreapp2.1\graphql-web.runtimeconfig.json
+D:\github\graphql-demo\graphql-web\bin\Debug\netcoreapp2.1\graphql-web.runtimeconfig.dev.json
+D:\github\graphql-demo\graphql-web\bin\Debug\netcoreapp2.1\graphql-web.dll
+D:\github\graphql-demo\graphql-web\bin\Debug\netcoreapp2.1\graphql-web.pdb
+D:\github\graphql-demo\graphql-web\obj\Debug\netcoreapp2.1\graphql-web.csprojAssemblyReference.cache
+D:\github\graphql-demo\graphql-web\obj\Debug\netcoreapp2.1\graphql-web.csproj.CoreCompileInputs.cache
+D:\github\graphql-demo\graphql-web\obj\Debug\netcoreapp2.1\graphql-web.RazorAssemblyInfo.cache
+D:\github\graphql-demo\graphql-web\obj\Debug\netcoreapp2.1\graphql-web.RazorAssemblyInfo.cs
+D:\github\graphql-demo\graphql-web\obj\Debug\netcoreapp2.1\graphql-web.AssemblyInfoInputs.cache
+D:\github\graphql-demo\graphql-web\obj\Debug\netcoreapp2.1\graphql-web.AssemblyInfo.cs
+D:\github\graphql-demo\graphql-web\obj\Debug\netcoreapp2.1\graphql-web.RazorTargetAssemblyInfo.cache
+D:\github\graphql-demo\graphql-web\obj\Debug\netcoreapp2.1\graphql-web.dll
+D:\github\graphql-demo\graphql-web\obj\Debug\netcoreapp2.1\graphql-web.pdb
